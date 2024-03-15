@@ -32,9 +32,11 @@ Console.WriteLine("Новый массив");
 Print(NewArray(createdArray)); 
 
 ```
+```
 Вывод в консоль:
 
 Введеный массив
 1234, 1567, -2, computer science
 Новый массив
 -2
+```
